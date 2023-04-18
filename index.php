@@ -5,4 +5,5 @@ echo $firstnumber+$secondnumber;
 echo $firstnumber-$secondnumber;
 echo $firstnumber*$secondnumber;
 echo $firstnumber/$secondnumber;
+ech $varf
 ?>
